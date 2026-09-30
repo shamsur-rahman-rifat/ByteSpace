@@ -53,7 +53,7 @@ ByteSpace/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/bytespace.git
+   git clone https://github.com/shamsur-rahman-rifat/ByteSpace.git
    ```
 
 2. **Navigate to the project directory:**
