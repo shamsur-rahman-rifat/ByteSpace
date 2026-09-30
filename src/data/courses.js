@@ -1,0 +1,80 @@
+export const courses = [
+  {
+    id: 1,
+    title: "Learn Figma from Basic",
+    creator: "purepearl studio",
+    rating: 4.5,
+    reviews: 26,
+    level: "Beginner",
+    price: 25,
+    lessons: 17,
+    duration: "2 hours 16 mins",
+    comments: 59,
+    image: "https://images.unsplash.com/photo-1587355760421-b9de3226a046?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    id: 2,
+    title: "Build Digital Asset",
+    creator: "purepearl studio",
+    rating: 4.5,
+    reviews: 26,
+    level: "Beginner",
+    price: 25,
+    lessons: 17,
+    duration: "2 hours 16 mins",
+    comments: 59,
+    image: "https://images.unsplash.com/photo-1506729623306-b5a934d88b53?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    id: 3,
+    title: "the Power of Big Data",
+    creator: "purepearl studio",
+    rating: 4.5,
+    reviews: 26,
+    level: "Beginner",
+    price: 25,
+    lessons: 17,
+    duration: "2 hours 16 mins",
+    comments: 59,
+    image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    id: 4,
+    title: "Balancing Productivity & Work-Life",
+    creator: "purepearl studio",
+    rating: 4.5,
+    reviews: 26,
+    level: "Beginner",
+    price: 25,
+    lessons: 17,
+    duration: "2 hours 16 mins",
+    comments: 59,
+    image: "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    id: 5,
+    title: "Mastering Money Management",
+    creator: "purepearl studio",
+    rating: 4.5,
+    reviews: 26,
+    level: "Beginner",
+    price: 25,
+    lessons: 17,
+    duration: "2 hours 16 mins",
+    comments: 59,
+    image: "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    id: 6,
+    title: "From Idea to Startup Success",
+    creator: "purepearl studio",
+    rating: 4.5,
+    reviews: 26,
+    level: "Beginner",
+    price: 25,
+    lessons: 17,
+    duration: "2 hours 16 mins",
+    comments: 59,
+    image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  }
+];
